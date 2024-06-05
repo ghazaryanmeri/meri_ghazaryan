@@ -1,1 +1,1 @@
-# meri_ghazaryan
+# internship
